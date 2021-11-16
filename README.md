@@ -33,3 +33,14 @@ Hmm... The report for utulsa.edu was taking over 30 minutes and was stuck at 60%
 ![SHOT4 1](https://user-images.githubusercontent.com/42558850/141885170-3f2829e3-68cc-429e-a721-575aaec3a8d9.png)
 
 ![SHOT4 2](https://user-images.githubusercontent.com/42558850/141885184-9fc0daa1-3ae6-4ad1-93f6-8885f71657a1.png)
+
+Using the tool Professor West provided, my docker-compose.yml file is:
+```
+version: '3.3'
+services:
+    openvas:
+        ports:
+            - '443:443'
+        container_name: openvas
+        image: mikesplain/openvas
+```
