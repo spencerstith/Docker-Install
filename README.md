@@ -13,19 +13,23 @@ I am doing this in my Ubuntu Virtual Machine
 
 Here is the main dashboard:
 
-SHOT1
+![SHOT1](https://user-images.githubusercontent.com/42558850/141885111-82ea03ad-c614-4194-8339-999b047f7ec0.png)
+
 
 10. Go to the Configuration tab and choose Targets.
 11. Create a new Target:
 
-SHOT2
+![SHOT2](https://user-images.githubusercontent.com/42558850/141885136-7f316170-cc96-46ff-ba3e-ef9b44abc27d.png)
+
 
 12. Create a new Task to scan the site:
 
-SHOT3
+![SHOT3](https://user-images.githubusercontent.com/42558850/141885152-8cef0a6f-79aa-4a24-918c-e75785282e33.png)
 
 Hmm... The report for utulsa.edu was taking over 30 minutes and was stuck at 60%. Hopefully that isn't bad news. I started a new report querying google.com.
 
 13. Once the scan is done, you can view the security report:
 
-SHOT4
+![SHOT4 1](https://user-images.githubusercontent.com/42558850/141885170-3f2829e3-68cc-429e-a721-575aaec3a8d9.png)
+
+![SHOT4 2](https://user-images.githubusercontent.com/42558850/141885184-9fc0daa1-3ae6-4ad1-93f6-8885f71657a1.png)
