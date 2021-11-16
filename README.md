@@ -24,6 +24,8 @@ SHOT2
 
 SHOT3
 
+Hmm... The report for utulsa.edu was taking over 30 minutes and was stuck at 60%. Hopefully that isn't bad news. I started a new report querying google.com.
+
 13. Once the scan is done, you can view the security report:
 
 SHOT4
